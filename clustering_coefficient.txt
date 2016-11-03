@@ -1,0 +1,6 @@
+
+Average: 0.681981981981982
+Median: 1.0
+Median low: 1.0
+Median high: 1.0
+Mode: [1.0]

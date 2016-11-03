@@ -1,0 +1,109 @@
+Connected authors: 
+
+11   ['Abe H', 'SakumaH', 'Shinokura K', 'Sibagaki S', 'Etoh M', 'Suzuki A', 'Jinno F', 'Koike S', 'Kubo H', 'Ashiki T', 'Sakuma H']
+Density : 0.509090909090909
+
+2   ['Abele', 'T']
+Density : 1.0
+
+2   ['Khakhanov Y', 'Afanasiev A']
+Density : 1.0
+
+5   ['Fartash K', 'Amalnick MS', 'Aghaei HA', 'Gholimotlagh M', 'Beheshtinia MA']
+Density : 1.0
+
+4   ['Liokkanen T', 'Ahlqvist T', 'Halonen M', 'Valovirta V']
+Density : 0.6666666666666666
+
+4   ['Kappel TA', 'B', 'Albright RE', 'Nelson']
+Density : 0.6666666666666666
+
+1   ['Allendorf MD']
+Density : 1
+
+2   ['Raghavan S', 'Alvarez E']
+Density : 1.0
+
+4   ['Amadi-Echendu J', 'Maswanganyi M', 'Mkhize M', 'Lephauphau O']
+Density : 1.0
+
+2   ['Amer M', 'Daim TU']
+Density : 1.0
+
+1   ['Amir A']
+Density : 1
+
+3   ['Park Y', 'An Y', 'Lee S']
+Density : 1.0
+
+3   ['Ana J', 'Hill J', 'Domazetis G']
+Density : 1.0
+
+2   ['Hendrix M', 'Anderson RB']
+Density : 1.0
+
+1   ['Arden WM']
+Density : 1
+
+3   ['Arshed N', 'Finch J', 'Bunduchi R']
+Density : 1.0
+
+4   ['Mayhew M', 'Ashworth P', 'Millar F', 'Boughen N']
+Density : 1.0
+
+4   ['Bagheri SK', 'Rashtchi M', 'Rezapour M', 'Nilforoushan H']
+Density : 1.0
+
+3   ['Xu P', 'Zhao S', 'Bai Q']
+Density : 1.0
+
+4   ['Levie J', 'Saukkonen J', 'Ballard SC', 'Nukari J']
+Density : 1.0
+
+2   ['Mittal AK', 'Bansal V']
+Density : 1.0
+
+2   ['Barker D', 'Smith DJH']
+Density : 1.0
+
+2   ['Bechtold LE', 'Redman D']
+Density : 1.0
+
+3   ['Phaal R', 'Beeton DA', 'Probert DR']
+Density : 1.0
+
+Connected components: 
+11   {0, 64, 66, 67, 32, 69, 39, 42, 43, 17, 63}
+2   {1, 70}
+2   {41, 2}
+5   {33, 9, 3, 35, 27}
+4   {47, 4, 36, 71}
+4   {40, 19, 5, 53}
+1   {6}
+2   {59, 7}
+4   {8, 48, 52, 45}
+2   {10, 30}
+1   {11}
+3   {56, 12, 44}
+3   {13, 38, 31}
+2   {37, 14}
+1   {15}
+3   {16, 34, 29}
+4   {49, 18, 50, 28}
+4   {20, 60, 62, 54}
+3   {72, 73, 21}
+4   {46, 65, 22, 55}
+2   {51, 23}
+2   {24, 68}
+2   {25, 61}
+3   {57, 26, 58}
+
+Number of connected components: 24
+Largest component size: 11
+Largest connected component: ['Abe H', 'SakumaH', 'Shinokura K', 'Sibagaki S', 'Etoh M', 'Suzuki A', 'Jinno F', 'Koike S', 'Kubo H', 'Ashiki T', 'Sakuma H']
+Component sizes: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 11]
+Average component size: 3.0833333333333335
+Median: 3.0
+Low median: 3
+High median: 3
+Mode: [2]

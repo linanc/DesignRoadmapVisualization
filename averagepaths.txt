@@ -1,0 +1,64 @@
+['Etoh M', 'SakumaH', 'Koike S', 'Jinno F', 'Suzuki A', 'Shinokura K', 'Kubo H', 'Sakuma H', 'Ashiki T', 'Sibagaki S', 'Abe H']
+1.490909090909091
+
+['Mittal AK', 'Bansal V']
+1.0
+
+['Liokkanen T', 'Valovirta V', 'Ahlqvist T', 'Halonen M']
+1.3333333333333333
+
+['Albright RE', 'Nelson', 'B', 'Kappel TA']
+1.3333333333333333
+
+['Ashworth P', 'Boughen N', 'Millar F', 'Mayhew M']
+1.0
+
+['Beheshtinia MA', 'Fartash K', 'Amalnick MS', 'Gholimotlagh M', 'Aghaei HA']
+1.0
+
+['Anderson RB', 'Hendrix M']
+1.0
+
+['An Y', 'Park Y', 'Lee S']
+1.0
+
+['Alvarez E', 'Raghavan S']
+1.0
+
+['Amer M', 'Daim TU']
+1.0
+
+['Smith DJH', 'Barker D']
+1.0
+
+['Saukkonen J', 'Ballard SC', 'Nukari J', 'Levie J']
+1.0
+
+['Zhao S', 'Xu P', 'Bai Q']
+1.0
+
+['Bunduchi R', 'Arshed N', 'Finch J']
+1.0
+
+['Lephauphau O', 'Amadi-Echendu J', 'Mkhize M', 'Maswanganyi M']
+1.0
+
+['T', 'Abele']
+1.0
+
+['Bechtold LE', 'Redman D']
+1.0
+
+['Beeton DA', 'Phaal R', 'Probert DR']
+1.0
+
+['Rashtchi M', 'Bagheri SK', 'Rezapour M', 'Nilforoushan H']
+1.0
+
+['Hill J', 'Domazetis G', 'Ana J']
+1.0
+
+['Afanasiev A', 'Khakhanov Y']
+1.0
+
+Avg fig :1.0551226551226551
